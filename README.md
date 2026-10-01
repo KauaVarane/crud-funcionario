@@ -22,3 +22,4 @@ Sistema de gestão de funcionários em console, desenvolvido em Java, que permit
 
 ## Autor
 Kauã Santos Gomes Varane — estudante de Análise e Desenvolvimento de Sistemas (FATEC Zona Leste)
+Projeto feito em java para praticar CRUD.
